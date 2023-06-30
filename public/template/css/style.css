@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body, .main-menu > li > a  {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.cl2 {
+    color: #d35400;
+    font-weight: 700;
+}
+.main-menu > li > a{
+    color: #d35400;
+    font-weight: 300;
+    font-size: larger;
+}
+.logo img {
+    max-width: 100%;
+    max-height: 160% !important;
+}
+.block1-name,.block1-info{
+    color: #d35400;
+    font-family: 'Roboto', sans-serif !important;
+}
+.cl3 {color: #d35400 !important;}
+.cl4 {color: black !important;}
